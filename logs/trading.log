@@ -1,0 +1,8 @@
+2026-07-01 16:58:36,778 | INFO | Request -> Symbol:BTCUSDT, Side:BUY, Type:MARKET, Qty:0.001, Price:None
+2026-07-01 16:58:37,667 | INFO | Response -> {}
+2026-07-01 16:59:37,641 | INFO | Request -> Symbol:BTCUSDT, Side:SELL, Type:LIMIT, Qty:0.001, Price:120000.0
+2026-07-01 16:59:38,359 | INFO | Response -> {}
+2026-07-01 17:34:58,909 | INFO | Request -> Symbol:BTCUSDT, Side:BUY, Type:MARKET, Qty:0.001, Price:None
+2026-07-01 17:34:59,879 | INFO | Response -> {}
+2026-07-01 17:35:10,916 | INFO | Request -> Symbol:BTCUSDT, Side:SELL, Type:LIMIT, Qty:0.001, Price:30000.0
+2026-07-01 17:35:11,574 | INFO | Response -> {}
